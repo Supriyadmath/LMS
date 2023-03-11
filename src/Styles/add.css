@@ -1,0 +1,42 @@
+.one{
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    padding-top:60px ;
+    color:black;
+    padding-left: 200px;
+    font-style: italic;
+}
+.one{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwD5iabhJEK1TXjadfaMkX6wccMjY142Hr5w&usqp=CAU");
+    
+}
+.three label{
+    text-decoration: underline;
+    font-size: larger;
+}
+.three input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+    text-decoration: none;
+    padding-left: 50px;
+}
+.two{
+    padding-top: 100px;
+}
+.threee button{
+    margin-right: 5px;
+}
+.threee {
+    opacity: 0.6;
+    margin-bottom: 20px;
+    align-items: center;
+    padding: 30px 30px;
+    background-color: transparent;
+    border:2px solid black;
+    background-color: white;
+    height: 420px;
+}

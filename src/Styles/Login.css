@@ -1,0 +1,15 @@
+
+.login{
+    display: inline-flex;
+    border: 3px solid black;
+    margin: 10% 20%;
+    
+}
+.login_form{
+    margin-left: 12%;
+    margin-top: 70px;
+    line-height: 30px;
+    font-size: 45px;
+    padding-right: 150px;
+}
+
